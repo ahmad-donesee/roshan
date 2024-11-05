@@ -1,7 +1,12 @@
 
 
-add data csv to Dataset model:
-notes:atfirst change the id in books5.csv 
-1-(env) roshan>sqlite3.exe db.sqlite3
-2-sqlite> .mode
-3-sqlite> .import books5.csv roshan_dataset
+add data csv to Dataset model:                                                                                                                                                                
+notes:atfirst change the id in books5.csv                                                                                                                                                       
+1-(env) roshan>sqlite3.exe db.sqlite3                                                                                                                                                          
+2-sqlite> .mode                                                                                                                                                                                
+3-sqlite> .import books5.csv roshan_dataset                                                                                                                                                    
+
+
+
+جواب سوال کار اموزی 
+به داکر وداکر کامپوز  تسلط ندارم در حال یادگیری داکر  هستم
